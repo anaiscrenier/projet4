@@ -309,7 +309,9 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
-    width: 71%;
+    width: 50%;
+   
+
 }
 
 .navbar-brand img[src$=svg] {
@@ -665,10 +667,10 @@ a {
     color: #575757!important;
 }
 
-.commentaire_entreprise h3 {
-font-weight: lighter !important;
+.commentaire_entreprise  p{
+font-weight: 600 !important;
 text-transform: none !important;
-font-size: 0 !important;
+font-size: 18px!important;
 }
 
 .container {
@@ -694,7 +696,7 @@ font-size: 0 !important;
 }
 
 p {
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
