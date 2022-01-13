@@ -841,6 +841,13 @@ h4 {
     background-image: url("img/image-de-presentation.jpg");
 }
 
+.commentaire-photo{
+    font-style: normal;
+    font-size: 19px;
+    font-weight: 500;
+    
+}
+
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
