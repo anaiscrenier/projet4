@@ -273,16 +273,17 @@ a:hover {
     margin-top: 80px;
 }
 
-.row-no-gutters {
-    margin-right: 0;
-    margin-left: 0;
+.row.row-no-gutters.social{
+   margin: auto;
     
 }
+
 
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
     padding-left: 0;
+
 }
 
 #bloc-1-hero h1 {
@@ -308,6 +309,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    width: 71%;
 }
 
 .navbar-brand img[src$=svg] {
@@ -845,7 +847,7 @@ h4 {
     font-style: normal;
     font-size: 19px;
     font-weight: 500;
-    
+
 }
 
 @media (max-width: 1024px) {
