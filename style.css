@@ -756,8 +756,8 @@ h4 {
     background-color: rgb(194, 121, 86);
 }
 
-.tc-orange {
-    color: #fb9868!important;
+.tc-black {
+    color: rgb(0, 0, 0) !important;
 }
 
 .btn-atomic-tangerine {
