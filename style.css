@@ -317,7 +317,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
-    width: 50%;
+    width: 73%;
    
 
 }
@@ -680,7 +680,7 @@ p {
     color: rgb(199, 123, 88)!important;
     text-transform: uppercase;
     padding: 8px 23px 8px 23px;
-    font-size: 11px;
+    font-size: 16px;
     font-weight: 700;
 }
 
@@ -757,7 +757,7 @@ h4 {
 }
 
 .tc-orange {
-    color: rgb(194, 121, 86)!important;
+    color: #fb9868!important;
 }
 
 .btn-atomic-tangerine {
@@ -783,7 +783,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine:hover {
-    color: #c27956!important;
+    color: #ffffff !important;
 }
 
 .icon-dark-slate-blue {
@@ -818,7 +818,14 @@ h4 {
     padding-top: 10px ;
     padding-bottom: 10px !important;
     line-height: 20px !important; 
-    font-size: 12px !important;
+    font-size: 17px !important;
+}
+.navbar-nav>li>a:hover {
+    padding-top: 10px ;
+    padding-bottom: 10px !important;
+    line-height: 20px !important;
+    font-size: 17px !important;
+
 }
 
 @media (max-width: 1024px) {
