@@ -40,6 +40,7 @@ a:hover {
     font-size: 32px;
 }
 
+
 .bloc .container {
     padding-left: 0;
     padding-right: 0;
@@ -286,7 +287,6 @@ a:hover {
    margin: auto;
     
 }
-
 
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
@@ -826,6 +826,17 @@ h4 {
     line-height: 20px !important;
     font-size: 17px !important;
 
+}
+
+.icon-footer{
+    width: 38%;
+}
+.icon-footer1{
+    width: 33%;
+}
+
+.icon-footer:hover{
+    color: yellow;
 }
 
 @media (max-width: 1024px) {
