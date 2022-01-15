@@ -288,6 +288,7 @@ a:hover {
     
 }
 
+
 .row.row-no-gutters > [class^="col-"],
 .row.row-no-gutters > [class*=" col-"] {
     padding-right: 0;
@@ -899,6 +900,8 @@ h4 {
         float: none;
         margin: 10px auto 0;
     }
+
+
    
 }
 
@@ -941,6 +944,7 @@ h4 {
             overflow-x: hidden;
             position: relative;
         }
+
 
         h1,
         h2,
@@ -1099,6 +1103,11 @@ h4 {
             padding-left: 0;
             padding-right: 0;
         }
+        .row.row-no-gutters.social{
+            margin: auto;
+            width: 25%;
+
+        }
 
     }
 
@@ -1106,6 +1115,11 @@ h4 {
 
         .bloc-mob-center-text {
             text-align: center;
+        }
+        .row.row-no-gutters.social{
+            margin: auto;
+            width: 25%;
+
         }
 
     }
