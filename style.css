@@ -663,7 +663,9 @@ font-size: 13px!important;
 }
 
 p {
-    font-size: 12px;
+    font-size: 16px;
+    padding-left: 7rem;
+
 }
 
 .tight-width-whitespace {
@@ -767,7 +769,7 @@ h4 {
 }
 
 .btn-atomic-tangerine:hover {
-    background: #AE6C4E!important;
+    background: rgb(174, 108, 78)!important;
     color: #FFFFFF!important;
 }
 
@@ -780,7 +782,7 @@ h4 {
 }
 
 .ltc-atomic-tangerine {
-    color: #F3976C!important;
+    color: rgb(243, 151, 108)!important;
 }
 
 .ltc-atomic-tangerine:hover {
@@ -840,6 +842,11 @@ h4 {
     color: yellow;
 }
 
+/*Formulaire*/
+
+#form_1{
+    font-size: 16px;
+}
 @media (max-width: 1024px) {
     .bloc {
         padding-left: 20px;
