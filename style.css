@@ -297,7 +297,13 @@ a:hover {
 }
 
 #bloc-1-hero h1 {
-    font-size: 25px;
+   background-color: rgba(255, 255, 255, 0.644);
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 36%;
+    padding: 8px 23px 8px 23px;
+    font-size: 20px;
+    font-weight: 700;
 }
 
 
@@ -413,6 +419,17 @@ nav .caret {
     margin-top: 10px;
     margin-bottom: 20px;
     position: relative;
+    
+}
+
+.mg-md.text-center.tc-black{
+    background-color: rgba(255, 255, 255, 0.644);
+    width: 50%;
+    margin-left: 25%;
+    border-radius: 36%;
+    padding: 8px 23px 8px 23px;
+    font-size: 16px;
+    font-weight: 700;
 }
 
 .mg-lg {
@@ -762,6 +779,7 @@ h4 {
 
 .tc-black {
     color: rgb(0, 0, 0) !important;
+    
 }
 
 .btn-atomic-tangerine {
